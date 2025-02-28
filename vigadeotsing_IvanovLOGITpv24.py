@@ -17,10 +17,10 @@ print("Ristküliku ümbermõõt", (P))
 di=sqrt(b*2+c*2)
 print("Ristküliku diagonaal", round(di))
 print("Ringi karakteristikud")
-r=input("Sisesta ringi raadiusi pikkus => ")
+r=float(input("Sisesta ringi raadiusi pikkus => "))
 d=2*r
 print("Ringi läbimõõt", (d))
-S=pi()*r*2
+S=pi*r*2
 print("Ringi pindala", round(S))
-C=2*pi()*r
+C=2*pi*r
 print("Ringjoone pikkus", round(C))
