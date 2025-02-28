@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "vigadeotsing_IvanovLOGITpv24", "vigadeotsing_IvanovLOGITpv24.pyproj", "{200D5FB3-FA6D-4669-83C9-371F9B5E5031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{200D5FB3-FA6D-4669-83C9-371F9B5E5031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{200D5FB3-FA6D-4669-83C9-371F9B5E5031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {211EC78D-9723-4396-9AD1-6C329F99A52D}
+	EndGlobalSection
+EndGlobal
